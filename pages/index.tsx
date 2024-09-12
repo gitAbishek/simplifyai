@@ -60,6 +60,210 @@ export default function Home() {
               />
             }
           />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+        </div>
+        <div className="w-full flex flex-col py-2">
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+        </div>
+        <div className="w-full flex flex-col py-2">
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+        </div>
+        <div className="w-full flex flex-col py-2">
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
+          <CustomSidebarComponentWithIcon
+            icon={
+              <MdOutlineDashboard
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+            title={"Dashboard"}
+            dropDown
+            dropdownIcon={
+              <RiArrowDropDownLine
+                color="#fff"
+                size={32}
+                className="text-[#9C9C9F] hover:cursor-pointer"
+              />
+            }
+          />
         </div>
       </div>
 
